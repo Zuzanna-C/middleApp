@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "middleApp", "middleApp\middleApp.csproj", "{89FBD020-112F-4C04-B97F-9E95A2D3F778}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C67E6B35-3539-4466-B698-8ADCCEE4ADCD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnovaCalendarWebApiClient", "EnovaCalendarAPI\EnovaCalendarWebApiClient.csproj", "{A10CB9F7-114D-4116-BB95-D8C29AD13F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCalendarAPIClient", "GoogleCalendarAPIClient\GoogleCalendarAPIClient.csproj", "{1A0E040E-BF27-4224-88DC-17CB72D451C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89FBD020-112F-4C04-B97F-9E95A2D3F778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FBD020-112F-4C04-B97F-9E95A2D3F778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FBD020-112F-4C04-B97F-9E95A2D3F778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FBD020-112F-4C04-B97F-9E95A2D3F778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10CB9F7-114D-4116-BB95-D8C29AD13F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10CB9F7-114D-4116-BB95-D8C29AD13F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10CB9F7-114D-4116-BB95-D8C29AD13F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10CB9F7-114D-4116-BB95-D8C29AD13F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0E040E-BF27-4224-88DC-17CB72D451C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0E040E-BF27-4224-88DC-17CB72D451C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0E040E-BF27-4224-88DC-17CB72D451C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0E040E-BF27-4224-88DC-17CB72D451C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00230DF3-AECD-40AF-89AE-9C84919BCD32}
+	EndGlobalSection
+EndGlobal
